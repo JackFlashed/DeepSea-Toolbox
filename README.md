@@ -1,4 +1,4 @@
-# Kosmos Toolbox
+# DeepSea Toolbox
 
 A toolbox that allows the user to change settings of the loader (requires a modified version of loader). It's aimed for the use with tomGER's SDFiles.
 
